@@ -1,0 +1,14 @@
+.i5{
+  width: 20%;
+  display: inline-block;
+}
+.img1{
+  height: 20%;
+  width: 20%;
+}
+.btn{
+  width: 50%;
+  height: 10vh;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+}
